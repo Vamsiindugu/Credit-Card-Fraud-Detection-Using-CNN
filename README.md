@@ -79,7 +79,7 @@ Key insights:
 
 - **Metrics Used**: Precision, Recall, F1-Score, and Accuracy.
 - **Performance**:
-  - Precision: 98.6%
+  - Precision: 98.7%
   - Recall: 97.5%
   - F1-Score: 98.05%
 - The model achieves a significant reduction in false positives and negatives, ensuring reliability.
