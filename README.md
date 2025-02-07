@@ -27,7 +27,7 @@ This project demonstrates the application of a Convolutional Neural Network (CNN
 
 2. **Convolutional Layers**:
    - Extract meaningful features from the data.
-   - See [MDN's guide on CNNs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview).
+   - See [MDN's guide on CNNs] (https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview).
 
 3. **Max Pooling**:
    - Reduces the spatial dimensions of feature maps.
