@@ -98,6 +98,6 @@ The CNN architecture comprises:
 
 ## Lessons Learned
 
-- **Data Imbalance**: Handling imbalanced datasets with SMOTE is critical in fraud detection.
-- **Model Generalization**: Dropout layers significantly improve model robustness.
-- **CNN Superiority**: Convolutional layers effectively capture patterns in skewed datasets.
+- **Data Imbalance** : Handling imbalanced datasets with SMOTE is critical in fraud detection.
+- **Model Generalization** : Dropout layers significantly improve model robustness.
+- **CNN Superiority** : Convolutional layers effectively capture patterns in skewed datasets.
