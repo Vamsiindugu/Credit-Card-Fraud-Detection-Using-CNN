@@ -23,8 +23,6 @@ A highly optimized implementation of a **Convolutional Neural Network (CNN)** fo
   - [📓 Running the Notebook](#running-the-notebook)
 - [🛠️ Usage](#usage)
 - [🤝 Contributing](#contributing)
-- [📝 License](#license)
-- [📬 Contact](#contact)
 
 ---
 
